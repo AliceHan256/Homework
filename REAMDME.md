@@ -26,5 +26,6 @@ $ npm start
 **word**
 *word*
 `word`
-> "Quote"
+> 
+"Quote"
 ---
