@@ -1,6 +1,6 @@
 # Title
 ## Table of contents
-* [General info]
+* [General info](#general info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
