@@ -22,4 +22,4 @@ $ npm install
 $ npm start
 ```
 
-![Powered Site P11](~/OneDrive/desktop/Homework/p11.jpg)
+![Powered Site P11](./images/p11.jpg)
