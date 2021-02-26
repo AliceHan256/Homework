@@ -23,3 +23,8 @@ $ npm start
 ```
 
 ![Powered Site P11](./images/p11.jpg)
+**word**
+*word*
+`word`
+> "Quote"
+---
