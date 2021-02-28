@@ -1,6 +1,6 @@
 # Title
 ## Table of contents
-* [General info]
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
@@ -23,3 +23,10 @@ $ npm start
 ```
 
 ![Powered Site P11](./images/p11.jpg)
+**word**
+*word*
+`word`
+> 
+"Quote"
+---
+---
